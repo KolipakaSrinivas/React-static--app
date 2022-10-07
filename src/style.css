@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    font-family: Inter, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+nav{
+    display: flex;
+    background-color: #21222A;
+    align-items: center;
+    height: 90px;
+    padding: 30px 25px;
+}
+nav > img{
+    height: 30px;
+    margin-right: 20px;
+}
+nav >h3{
+    color: aliceblue;
+    margin-left: auto;
+}
+nav h2{
+    color: #00D8FF;
+}
