@@ -9,7 +9,7 @@ import '../App.css';
             <nav className='navbar'>
                 <img src="react-icon-small.png" alt='logo'/>
                 <h2>ReactFacts</h2>
-                <h3 id='cource'>React Course-Project 1</h3>
+                <h3>React Course-Project 1</h3>
             </nav>
         </div>
     )
