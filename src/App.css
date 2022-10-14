@@ -39,6 +39,10 @@ body{
 }
 main{
     padding: 57px 27px;
+    background:url(../images/react-icon-large.png);
+    background-repeat: no-repeat;
+    background-position-x:right ;
+    background-position-y:75%;
 }
 
 main h1{
