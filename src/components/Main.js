@@ -2,9 +2,16 @@ import React from 'react';
 
 function Main(){
     return(
-        <div>
-            <h1>Super</h1>
-        </div>
+        <main>
+            <h1></h1>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </main>
     )
 }
 
