@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+
+.navbar{
+   display: flex;
+   height: 90px;
+   padding: 30px 25px;
+   background-color:rgba(33, 34, 42, 1);
+   align-items: center;
+}
+
+.navbar h3{
+    margin: 0;
+    color: rgba(255, 255, 255, 1);
+} 
+.navbar h2{
+    margin: 0;
+    color: rgba(97, 218, 251, 1) ;
+}
+
+
+
+.navbar h3{
+    margin-left: auto;
+}
+
+.navbar img{
+    height: 30px;
+    margin-right: 8px;
+}
+
+
