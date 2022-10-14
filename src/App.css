@@ -4,6 +4,7 @@
 body{
     margin: 0;
     font-family: Inter, sans-serif;
+    background:rgba(40, 45, 53, 1);
 }
 
 .navbar{
@@ -36,5 +37,27 @@ body{
     height: 30px;
     margin-right: 8px;
 }
+main{
+    padding: 57px 27px;
+}
 
+main h1{
+    color: rgba(255, 255, 255, 1);
+    margin: 0px;
+    letter-spacing: -0.05em;
+}
 
+main ul li{
+    padding-block: 10px;
+    color: rgba(255, 255, 255, 1);
+    /* line-height: 47px; */
+}
+main ul{
+    padding-top: 46px;
+    max-width: 400px;
+
+}
+main ul li::marker{
+    font-size: 1.4rem;
+    color: rgba(97, 218, 251, 1);
+}
